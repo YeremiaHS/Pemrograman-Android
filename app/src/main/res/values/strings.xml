@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">simple activity_yeremia</string>
+    <string name="hint_lahir">Masukkan tahun lahir</string>
+    <string name="submit">Submit</string>
+</resources>
